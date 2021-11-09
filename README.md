@@ -1,4 +1,4 @@
-# STOicTTX
+# STOic TTX Cyber Security Table Top Excersie Framework
 A HEFESTIS project funded by the Scottish Government
 
 
