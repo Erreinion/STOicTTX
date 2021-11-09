@@ -1,2 +1,2 @@
 # STOicTTX
-Public repository for STOic TTX files
+A HEFESTIS project funded by the Scottish Government
